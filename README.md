@@ -1,2 +1,3 @@
 # HELLO-WORLD
-Just another World
+Just another World,
+hi i love to code, and love evrything Technology especially blockchain. 
